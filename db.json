@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "demo@demo.com",
+      "password": "demo123"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "text": "Aprender React",
+      "completed": false,
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "text": "Hacer la app de tareas",
+      "completed": false,
+      "createdAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "userId": 1,
+      "text": "Asear al perro",
+      "completed": true,
+      "createdAt": "2026-02-27T21:25:54.312Z",
+      "id": 7
+    }
+  ]
+}
