@@ -28,10 +28,3 @@ Aplicación de tareas (Todo List) con autenticación, modo oscuro y persistencia
 - npm o yarn
 - Git (opcional, para clonar)
 
-## 🔧 Instalación y configuración paso a paso
-
-### Paso 1: Clonar el repositorio
-
-`bash
-git clone https://github.com/TU-USUARIO/todo-app-react.git
-cd todo-app-react
